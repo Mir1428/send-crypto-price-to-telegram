@@ -1,0 +1,53 @@
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Send to telegram crypto price.exe.config
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Send to telegram crypto price.exe
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Send to telegram crypto price.pdb
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\HtmlAgilityPack.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Buffers.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Memory.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Text.Json.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.ValueTuple.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Telegram.Bot.dll
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\HtmlAgilityPack.pdb
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\HtmlAgilityPack.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Buffers.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Memory.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Text.Json.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\System.ValueTuple.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Telegram.Bot.pdb
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\bin\Debug\Telegram.Bot.xml
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.csproj.AssemblyReference.cache
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.exe.config
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.csproj.CoreCompileInputs.cache
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.csproj.CopyComplete
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.exe
+D:\Programming\Projects C#\Send to telegram crypto price\Send to telegram crypto price\obj\Debug\Send to telegram crypto price.pdb
